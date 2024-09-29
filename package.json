@@ -40,7 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  },
-  "homepage": "https://monajsu19.github.io/countries-frontend-react"
-
+  }
 }
